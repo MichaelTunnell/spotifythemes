@@ -1,4 +1,4 @@
-> Important Note: I no longer use Feedly so if errors occur I will not see them, which means if you are using this and notice an issue please let me know so I can fix it...otherwise I won't ever see it and thus won't be fixed.
+> Important Note: I no longer use Spotify so if errors occur I will not see them, which means if you are using this and notice an issue please let me know so I can fix it...otherwise I won't ever see it and thus won't be fixed.
 >
 > To inform me of an error please [submit an issue here on GitHub](https://github.com/MichaelTunnell/spotifythemes/issues) or tweet to me [@MichaelTunnell](https://twitter.com/michaeltunnell).
 
